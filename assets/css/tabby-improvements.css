@@ -1,0 +1,22 @@
+.responsive-tabs ul.responsive-tabs__list {
+	border-bottom: 1px solid #ddd;
+	margin: 20px 0 0 0;
+}
+
+.responsive-tabs .responsive-tabs__list__item {
+	float: none;
+	display: inline-block;
+}
+
+.responsive-tabs  .responsive-tabs__list__item--active {
+	border-bottom: 1px solid #fff;
+}
+
+.responsive-tabs .responsive-tabs__list__item:hover {
+	border-bottom: 1px solid #fff;
+}
+
+.responsive-tabs .responsive-tabs__panel {
+	border-top: 1px solid #fff;
+	padding: 20px;
+}
